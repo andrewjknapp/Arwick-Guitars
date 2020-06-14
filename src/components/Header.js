@@ -1,9 +1,11 @@
 import React from "react";
+import { Navbar } from "./Navbar";
 
-export function About() {
+
+export function Header() {
     return (
         <section>
-            <h1>About</h1>
+            <Navbar/>
         </section>
     )
 }
