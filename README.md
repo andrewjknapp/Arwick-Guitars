@@ -1,3 +1,3 @@
-Arwick Guitars
+Arwyk Guitars
 
-Portfolio site for small business Arwick Guitars
+Portfolio site for small business Arwyk Guitars

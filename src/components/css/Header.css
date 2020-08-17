@@ -1,0 +1,16 @@
+.headerBanner {
+    height: 100px;
+    width: 100vw;
+    background: rgb(136, 60, 15);
+}
+
+.logo {
+    background: rgb(243, 192, 97);
+    border-radius: 50%;
+}
+
+.logoMobile {
+    height: 120px;
+    width: 150px;
+
+}
