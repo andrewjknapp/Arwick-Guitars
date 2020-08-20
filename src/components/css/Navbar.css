@@ -1,0 +1,25 @@
+.navbar {
+    background: rgb(59, 59, 59);
+    height: 2em;
+    width: 100vw;
+    display: block;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 100%;
+    width: 50vw;
+    min-width: 300px;
+    margin: 0 auto;
+}
+
+.linkItem {
+    color: white;
+    text-decoration: none;
+    margin: 0 5px;
+    padding: 2px;
+    font-size: 1.5em;
+    width: fit-content;
+}
